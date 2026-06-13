@@ -1,6 +1,6 @@
 # Analytics Backend Service
 
-A production-grade backend service that ingests large volumes of data from multiple APIs, stores and processes data in PostgreSQL, and exposes analytics endpoints with sub-2-second response times.
+A production-grade backend service that ingests large volumes of data from multiple APIs, stores and processes data in PostgreSQL, and exposes analytics endpoints with sub-2-second response times.   
 
 ## Architecture
 
