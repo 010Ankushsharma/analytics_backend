@@ -161,7 +161,7 @@ docker-compose exec api python scripts/refresh_views.py
 - 4 Uvicorn workers for parallel request handling
 - Async HTTP client for ingestion
 - Batch inserts (1000 records per batch)
-
+  
 ## API Usage Examples
 
 ```bash
